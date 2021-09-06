@@ -1,0 +1,21 @@
+new repositorio / publico /crer repositorio
+
+#comandos
+git status -> estado actual del git (Que hay nuevo)
+pwd -> Muestra el nombre de archivo completo del directorio de trabajo actual.
+ls -> Imprime información relativa a los archivos de un directorio.
+git ini -> inicializar git
+git add -A -> agregar varios archivos
+git commit -m "colocar mensaje o descripción" -> registrar cambio"
+git branch -M main -> crear Rama
+git remote add origin  https://github.com/nombre/proyecto.git -> vincular carpeta con proyecto
+Ingresar con usuario del Git y clave(Token de Git)
+-> Se deben mostrar las carpetas en en Git
+* Settings
+* Pages
+*Source, seleccionar main
+*save
+- Se genera Link URL
+
+
+
