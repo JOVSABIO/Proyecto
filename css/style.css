@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+.page_404 {
+    padding: 40px 0;
+    background: #fff;
+    font-family: "Roboto", serif;
+}
+
+.page_404 img {
+    width: 100%;
+}
+
+.four_zero_four_bg h1 {
+    font-size: 80px;
+}
+
+.four_zero_four_bg h3 {
+    font-size: 80px;
+}
+
+.link_404 {
+    color: #fff !important;
+    padding: 10px;
+    background: #39ac31;
+    font-size: 20px;
+    margin: 20px 0;
+    display: inline-block;
+    text-decoration: none;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.contant_box_404 {
+    margin-top: -50px;
+}
